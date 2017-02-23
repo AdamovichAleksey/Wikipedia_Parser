@@ -9,4 +9,5 @@ answers.csv
 
 ### Implementation
 Script is running by the next command:
+
 $ python script.py wikipedia_links.csv
